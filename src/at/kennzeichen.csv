@@ -1,98 +1,98 @@
 Nationalitätszeichen,Unterscheidungszeichen,Zulassungsbezirk,Bundesland.Name,Bundesland.Iso3166-2,Zulassungsbehörde
-A,E,Eisenstadt – Stadt,Burgenland,AT-1,Landespolizeidirektion Burgenland für das Gebiet der Gemeinden Eisenstadt und Rust
-A,EU,Eisenstadt/Umgebung,Burgenland,AT-1,BH Eisenstadt
-A,GS,Güssing,Burgenland,AT-1,BH Güssing
-A,JE,Jennersdorf,Burgenland,AT-1,BH Jennersdorf
-A,MA,Mattersburg,Burgenland,AT-1,BH Mattersburg
-A,ND,Neusiedl am See,Burgenland,AT-1,BH Neusiedl am See
-A,OP,Oberpullendorf,Burgenland,AT-1,BH Oberpullendorf
-A,OW,Oberwart,Burgenland,AT-1,BH Oberwart
-A,FE,Feldkirchen,Kärnten,AT-2,BH Feldkirchen
-A,HE,Hermagor,Kärnten,AT-2,BH Hermagor
-A,K,Klagenfurt – Stadt,Kärnten,AT-2,Landespolizeidirektion Kärnten für das Gebiet der Gemeinde Klagenfurt am Wörthersee
-A,KL,Klagenfurt/Land,Kärnten,AT-2,BH Klagenfurt
-A,SP,Spittal an der Drau,Kärnten,AT-2,BH Spittal an der Drau
-A,SV,St. Veit an der Glan,Kärnten,AT-2,BH St. Veit an der Glan
-A,VI,Villach,Kärnten,AT-2,Landespolizeidirektionen Kärnten für das Gebiet der Gemeinde Villach
-A,VK,Völkermarkt,Kärnten,AT-2,BH Völkermarkt
-A,VL,Villach/Land,Kärnten,AT-2,BH Villach
-A,WO,Wolfsberg,Kärnten,AT-2,BH Wolfsberg
 A,AM,Amstetten,Niederösterreich,AT-3,BH Amstetten
+A,B,Bregenz,Vorarlberg,AT-8,BH Bregenz
 A,BL,Bruck an der Leitha,Niederösterreich,AT-3,BH Bruck an der Leitha
-A,BN,Baden,Niederösterreich,AT-3,BH Baden
-A,GD,Gmünd,Niederösterreich,AT-3,BH Gmünd
-A,GF,Gänserndorf,Niederösterreich,AT-3,BH Gänserndorf
-A,HL,Hollabrunn,Niederösterreich,AT-3,BH Hollabrunn
-A,HO,Horn,Niederösterreich,AT-3,BH Horn
-A,KG,Klosterneuburg,Niederösterreich,AT-3,BH Tulln für das Gebiet der Gemeinde Klosterneuburg (Außenstelle Klosterneuburg)
-A,KO,Korneuburg,Niederösterreich,AT-3,BH Korneuburg
-A,KR,Krems/Land,Niederösterreich,AT-3,BH Krems an der Donau
-A,KS,Krems an der Donau – Stadt,Niederösterreich,AT-3,Magistrat Krems an der Donau
-A,LF,Lilienfeld,Niederösterreich,AT-3,BH Lilienfeld
-A,MD,Mödling,Niederösterreich,AT-3,BH Mödling
-A,ME,Melk,Niederösterreich,AT-3,BH Melk
-A,MI,Mistelbach,Niederösterreich,AT-3,BH Mistelbach
-A,NK,Neunkirchen,Niederösterreich,AT-3,BH Neunkirchen
-A,P,St. Pölten – Stadt,Niederösterreich,AT-3,Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde St. Pölten
-A,PL,St. Pölten/Land,Niederösterreich,AT-3,BH St. Pölten
-A,SB,Scheibbs,Niederösterreich,AT-3,BH Scheibbs
-A,SW,Schwechat,Niederösterreich,AT-3,"Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat"
-A,TU,Tulln,Niederösterreich,AT-3,BH Tulln
-A,WB,Wiener Neustadt/Land,Niederösterreich,AT-3,BH Wiener Neustadt
-A,WN,Wiener Neustadt – Stadt,Niederösterreich,AT-3,Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wiener Neustadt
-A,WT,Waidhofen an der Thaya,Niederösterreich,AT-3,BH Waidhofen an der Thaya
-A,WY,Waidhofen an der Ybbs,Niederösterreich,AT-3,Magistrat Waidhofen an der Ybbs
-A,ZT,Zwettl,Niederösterreich,AT-3,BH Zwettl
-A,BR,Braunau,Oberösterreich,AT-4,BH Braunau am Inn
-A,EF,Eferding,Oberösterreich,AT-4,BH Eferding
-A,FR,Freistadt,Oberösterreich,AT-4,BH Freistadt
-A,GM,Gmunden,Oberösterreich,AT-4,BH Gmunden
-A,GR,Grieskirchen,Oberösterreich,AT-4,BH Grieskirchen
-A,KI,Kirchdorf an der Krems,Oberösterreich,AT-4,BH Kirchdorf an der Krems
-A,L,Linz – Stadt,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz
-A,LL,Linz/Land,Oberösterreich,AT-4,BH Linz-Land
-A,PE,Perg,Oberösterreich,AT-4,BH Perg
-A,RI,Ried im Innkreis,Oberösterreich,AT-4,BH Ried im Innkreis
-A,RO,Rohrbach,Oberösterreich,AT-4,BH Rohrbach im Mühlkreis
-A,SD,Schärding,Oberösterreich,AT-4,BH Schärding
-A,SE,Steyr/Land,Oberösterreich,AT-4,BH Steyr-Land
-A,SR,Steyr – Stadt ,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Steyr
-A,UU,Urfahr/Umgebung,Oberösterreich,AT-4,BH Urfahr-Umgebung
-A,VB,Vöcklabruck,Oberösterreich,AT-4,BH Vöcklabruck
-A,WE,Wels – Stadt,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Wels
-A,WL,Wels/Land,Oberösterreich,AT-4,BH Wels
-A,HA,Hallein,Salzburg,AT-5,BH Hallein
-A,JO,St. Johann im Pongau,Salzburg,AT-5,BH St. Johann
-A,S,Salzburg – Stadt,Salzburg,AT-5,Landespolizeidirektion Salzburg für das Gebiet der Gemeinde Salzburg
-A,SL,Salzburg/Land,Salzburg,AT-5,BH Salzburg-Umgebung
-A,TA,Tamsweg,Salzburg,AT-5,BH Tamsweg
-A,ZE,Zell am See,Salzburg,AT-5,BH Zell am See
 A,BM,Bruck-Mürzzuschlag,Steiermark,AT-6,BH Bruck-Mürzzuschlag
+A,BN,Baden,Niederösterreich,AT-3,BH Baden
+A,BR,Braunau,Oberösterreich,AT-4,BH Braunau am Inn
+A,BZ,Bludenz,Vorarlberg,AT-8,BH Bludenz
 A,DL,Deutschlandsberg,Steiermark,AT-6,BH Deutschlandsberg
+A,DO,Dornbirn,Vorarlberg,AT-8,BH Dornbirn
+A,E,Eisenstadt – Stadt,Burgenland,AT-1,Landespolizeidirektion Burgenland für das Gebiet der Gemeinden Eisenstadt und Rust
+A,EF,Eferding,Oberösterreich,AT-4,BH Eferding
+A,EU,Eisenstadt/Umgebung,Burgenland,AT-1,BH Eisenstadt
+A,FE,Feldkirchen,Kärnten,AT-2,BH Feldkirchen
+A,FK,Feldkirch,Vorarlberg,AT-8,BH Feldkirch
+A,FR,Freistadt,Oberösterreich,AT-4,BH Freistadt
 A,G,Graz,Steiermark,AT-6,Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Graz
 A,GB,Gröbming,Steiermark,AT-6,Exp. Gröbming
+A,GD,Gmünd,Niederösterreich,AT-3,BH Gmünd
+A,GF,Gänserndorf,Niederösterreich,AT-3,BH Gänserndorf
+A,GM,Gmunden,Oberösterreich,AT-4,BH Gmunden
+A,GR,Grieskirchen,Oberösterreich,AT-4,BH Grieskirchen
+A,GS,Güssing,Burgenland,AT-1,BH Güssing
 A,GU,Graz/Umgebung,Steiermark,AT-6,BH Graz-Umgebung
+A,HA,Hallein,Salzburg,AT-5,BH Hallein
+A,HE,Hermagor,Kärnten,AT-2,BH Hermagor
 A,HF,Hartberg-Fürstenfeld,Steiermark,AT-6,BH Hartberg-Fürstenfeld
-A,LB,Leibnitz,Steiermark,AT-6,BH Leibnitz
-A,LE,Leoben – Stadt,Steiermark,AT-6,Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben
-A,LI,Liezen,Steiermark,AT-6,BH Liezen
-A,LN,Leoben/Umgebung,Steiermark,AT-6,BH Leoben
-A,MT,Murtal,Steiermark,AT-6,BH Murtal
-A,MU,Murau,Steiermark,AT-6,BH Murau
-A,SO,Südoststeiermark,Steiermark,AT-6,BH Südoststeiermark
-A,VO,Voitsberg,Steiermark,AT-6,BH Voitsberg
-A,WZ,Weiz,Steiermark,AT-6,BH Weiz
+A,HL,Hollabrunn,Niederösterreich,AT-3,BH Hollabrunn
+A,HO,Horn,Niederösterreich,AT-3,BH Horn
 A,I,Innsbruck – Stadt,Tirol,AT-7,Landespolizeidirektion Tirol für das Gebiet der Gemeinde Innsbruck
 A,IL,Innsbruck/Land,Tirol,AT-7,BH Innsbruck
 A,IM,Imst,Tirol,AT-7,BH Imst
+A,JE,Jennersdorf,Burgenland,AT-1,BH Jennersdorf
+A,JO,St. Johann im Pongau,Salzburg,AT-5,BH St. Johann
+A,K,Klagenfurt – Stadt,Kärnten,AT-2,Landespolizeidirektion Kärnten für das Gebiet der Gemeinde Klagenfurt am Wörthersee
 A,KB,Kitzbühel,Tirol,AT-7,BH Kitzbühel
+A,KG,Klosterneuburg,Niederösterreich,AT-3,BH Tulln für das Gebiet der Gemeinde Klosterneuburg (Außenstelle Klosterneuburg)
+A,KI,Kirchdorf an der Krems,Oberösterreich,AT-4,BH Kirchdorf an der Krems
+A,KL,Klagenfurt/Land,Kärnten,AT-2,BH Klagenfurt
+A,KO,Korneuburg,Niederösterreich,AT-3,BH Korneuburg
+A,KR,Krems/Land,Niederösterreich,AT-3,BH Krems an der Donau
+A,KS,Krems an der Donau – Stadt,Niederösterreich,AT-3,Magistrat Krems an der Donau
 A,KU,Kufstein,Tirol,AT-7,BH Kufstein
+A,L,Linz – Stadt,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Linz
 A,LA,Landeck,Tirol,AT-7,BH Landeck
+A,LB,Leibnitz,Steiermark,AT-6,BH Leibnitz
+A,LE,Leoben – Stadt,Steiermark,AT-6,Landespolizeidirektion Steiermark für das Gebiet der Gemeinde Leoben
+A,LF,Lilienfeld,Niederösterreich,AT-3,BH Lilienfeld
+A,LI,Liezen,Steiermark,AT-6,BH Liezen
+A,LL,Linz/Land,Oberösterreich,AT-4,BH Linz-Land
+A,LN,Leoben/Umgebung,Steiermark,AT-6,BH Leoben
 A,LZ,Lienz,Tirol,AT-7,BH Lienz
+A,MA,Mattersburg,Burgenland,AT-1,BH Mattersburg
+A,MD,Mödling,Niederösterreich,AT-3,BH Mödling
+A,ME,Melk,Niederösterreich,AT-3,BH Melk
+A,MI,Mistelbach,Niederösterreich,AT-3,BH Mistelbach
+A,MT,Murtal,Steiermark,AT-6,BH Murtal
+A,MU,Murau,Steiermark,AT-6,BH Murau
+A,ND,Neusiedl am See,Burgenland,AT-1,BH Neusiedl am See
+A,NK,Neunkirchen,Niederösterreich,AT-3,BH Neunkirchen
+A,OP,Oberpullendorf,Burgenland,AT-1,BH Oberpullendorf
+A,OW,Oberwart,Burgenland,AT-1,BH Oberwart
+A,P,St. Pölten – Stadt,Niederösterreich,AT-3,Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde St. Pölten
+A,PE,Perg,Oberösterreich,AT-4,BH Perg
+A,PL,St. Pölten/Land,Niederösterreich,AT-3,BH St. Pölten
 A,RE,Reutte,Tirol,AT-7,BH Reutte
+A,RI,Ried im Innkreis,Oberösterreich,AT-4,BH Ried im Innkreis
+A,RO,Rohrbach,Oberösterreich,AT-4,BH Rohrbach im Mühlkreis
+A,S,Salzburg – Stadt,Salzburg,AT-5,Landespolizeidirektion Salzburg für das Gebiet der Gemeinde Salzburg
+A,SB,Scheibbs,Niederösterreich,AT-3,BH Scheibbs
+A,SD,Schärding,Oberösterreich,AT-4,BH Schärding
+A,SE,Steyr/Land,Oberösterreich,AT-4,BH Steyr-Land
+A,SL,Salzburg/Land,Salzburg,AT-5,BH Salzburg-Umgebung
+A,SO,Südoststeiermark,Steiermark,AT-6,BH Südoststeiermark
+A,SP,Spittal an der Drau,Kärnten,AT-2,BH Spittal an der Drau
+A,SR,Steyr – Stadt ,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Steyr
+A,SV,St. Veit an der Glan,Kärnten,AT-2,BH St. Veit an der Glan
+A,SW,Schwechat,Niederösterreich,AT-3,"Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Schwechat und die im Gebiet der Gemeinden Fischamend, Klein-Neusiedl und Schwadorf gelegenen Teile des Flughafens Wien-Schwechat"
 A,SZ,Schwaz,Tirol,AT-7,BH Schwaz
-A,B,Bregenz,Vorarlberg,AT-8,BH Bregenz
-A,BZ,Bludenz,Vorarlberg,AT-8,BH Bludenz
-A,DO,Dornbirn,Vorarlberg,AT-8,BH Dornbirn
-A,FK,Feldkirch,Vorarlberg,AT-8,BH Feldkirch
+A,TA,Tamsweg,Salzburg,AT-5,BH Tamsweg
+A,TU,Tulln,Niederösterreich,AT-3,BH Tulln
+A,UU,Urfahr/Umgebung,Oberösterreich,AT-4,BH Urfahr-Umgebung
+A,VB,Vöcklabruck,Oberösterreich,AT-4,BH Vöcklabruck
+A,VI,Villach,Kärnten,AT-2,Landespolizeidirektionen Kärnten für das Gebiet der Gemeinde Villach
+A,VK,Völkermarkt,Kärnten,AT-2,BH Völkermarkt
+A,VL,Villach/Land,Kärnten,AT-2,BH Villach
+A,VO,Voitsberg,Steiermark,AT-6,BH Voitsberg
 A,W,Wien,Wien,AT-9,Landespolizeidirektion Wien
+A,WB,Wiener Neustadt/Land,Niederösterreich,AT-3,BH Wiener Neustadt
+A,WE,Wels – Stadt,Oberösterreich,AT-4,Landespolizeidirektion Oberösterreich für das Gebiet der Gemeinde Wels
+A,WL,Wels/Land,Oberösterreich,AT-4,BH Wels
+A,WN,Wiener Neustadt – Stadt,Niederösterreich,AT-3,Landespolizeidirektion Niederösterreich für das Gebiet der Gemeinde Wiener Neustadt
+A,WO,Wolfsberg,Kärnten,AT-2,BH Wolfsberg
+A,WT,Waidhofen an der Thaya,Niederösterreich,AT-3,BH Waidhofen an der Thaya
+A,WY,Waidhofen an der Ybbs,Niederösterreich,AT-3,Magistrat Waidhofen an der Ybbs
+A,WZ,Weiz,Steiermark,AT-6,BH Weiz
+A,ZE,Zell am See,Salzburg,AT-5,BH Zell am See
+A,ZT,Zwettl,Niederösterreich,AT-3,BH Zwettl

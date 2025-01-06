@@ -1,10 +1,10 @@
 Nationalitätszeichen,Unterscheidungszeichen,Kanton,Kanton.Iso3166-2
 CH,AG,Aargau,CH-AG
-CH,AR,Appenzell Ausserrhoden,CH-AR
 CH,AI,Appenzell Innerrhoden,CH-AI
+CH,AR,Appenzell Ausserrhoden,CH-AR
+CH,BE,Bern,CH-BE
 CH,BL,Basel-Landschaft,CH-BL
 CH,BS,Basel-Stadt,CH-BS
-CH,BE,Bern,CH-BE
 CH,FR,Freiburg,CH-FR
 CH,GE,Genf,CH-GE
 CH,GL,Glarus,CH-GL
@@ -14,12 +14,12 @@ CH,LU,Luzern,CH-LU
 CH,NE,Neuenburg,CH-NE
 CH,NW,Nidwalden,CH-NW
 CH,OW,Obwalden,CH-OW
-CH,SH,Schaffhausen,CH-SH
-CH,SZ,Schwyz,CH-SZ
-CH,SO,Solothurn,CH-SO
 CH,SG,Sankt Gallen,CH-SG
-CH,TI,Tessin,CH-TI
+CH,SH,Schaffhausen,CH-SH
+CH,SO,Solothurn,CH-SO
+CH,SZ,Schwyz,CH-SZ
 CH,TG,Thurgau,CH-TG
+CH,TI,Tessin,CH-TI
 CH,UR,Uri,CH-UR
 CH,VD,Waadt,CH-VD
 CH,VS,Wallis,CH-VS
