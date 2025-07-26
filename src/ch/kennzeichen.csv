@@ -1,27 +1,27 @@
-Nationalitätszeichen,Unterscheidungszeichen,Kanton,Kanton.Iso3166-2
-CH,AG,Aargau,CH-AG
-CH,AI,Appenzell Innerrhoden,CH-AI
-CH,AR,Appenzell Ausserrhoden,CH-AR
-CH,BE,Bern,CH-BE
-CH,BL,Basel-Landschaft,CH-BL
-CH,BS,Basel-Stadt,CH-BS
-CH,FR,Freiburg,CH-FR
-CH,GE,Genf,CH-GE
-CH,GL,Glarus,CH-GL
-CH,GR,Graubünden,CH-GR
-CH,JU,Jura,CH-JU
-CH,LU,Luzern,CH-LU
-CH,NE,Neuenburg,CH-NE
-CH,NW,Nidwalden,CH-NW
-CH,OW,Obwalden,CH-OW
-CH,SG,Sankt Gallen,CH-SG
-CH,SH,Schaffhausen,CH-SH
-CH,SO,Solothurn,CH-SO
-CH,SZ,Schwyz,CH-SZ
-CH,TG,Thurgau,CH-TG
-CH,TI,Tessin,CH-TI
-CH,UR,Uri,CH-UR
-CH,VD,Waadt,CH-VD
-CH,VS,Wallis,CH-VS
-CH,ZG,Zug,CH-ZG
-CH,ZH,Zürich,CH-ZH
+Nationalitätszeichen,Unterscheidungszeichen,Kanton,Kanton.Iso3166-2,Kanton.FR,Kanton.IT,Kanton.RM
+CH,AG,Aargau,CH-AG,Argovie,Argovia,Argovia
+CH,AI,Appenzell Innerrhoden,CH-AI,Appenzell Rhodes-Intérieures,Appenzello Interno,Appenzell Dadens
+CH,AR,Appenzell Ausserrhoden,CH-AR,Appenzell Rhodes-Extérieures,Appenzello Esterno,Appenzell Dadora
+CH,BE,Bern,CH-BE,Berne,Berna,Berna
+CH,BL,Basel-Landschaft,CH-BL,Bâle-Campagne,Basilea Campagna,Basilea-Champagna
+CH,BS,Basel-Stadt,CH-BS,Bâle-Ville,Basilea Città,Basilea-Citad
+CH,FR,Freiburg,CH-FR,Fribourg,Friburgo,Friburg
+CH,GE,Genf,CH-GE,Genève,Ginevra,Genevra
+CH,GL,Glarus,CH-GL,Glaris,Glarona,Glaruna
+CH,GR,Graubünden,CH-GR,Grisons,Grigioni,Grischun
+CH,JU,Jura,CH-JU,Jura,Giura,Giura
+CH,LU,Luzern,CH-LU,Lucerne,Lucerna,Lucerna
+CH,NE,Neuenburg,CH-NE,Neuchâtel,Neuchâtel,Neuchâtel
+CH,NW,Nidwalden,CH-NW,Nidwald,Nidvaldo,Sutsilvania
+CH,OW,Obwalden,CH-OW,Obwald,Obvaldo,Sursilvania
+CH,SG,Sankt Gallen,CH-SG,Saint-Gall,San Gallo,Son Gagl
+CH,SH,Schaffhausen,CH-SH,Schaffhouse,Sciaffusa,Schaffusa
+CH,SO,Solothurn,CH-SO,Soleure,Soletta,Soloturn
+CH,SZ,Schwyz,CH-SZ,Schwytz,Svitto,Sviz
+CH,TG,Thurgau,CH-TG,Thurgovie,Turgovia,Turgovia
+CH,TI,Tessin,CH-TI,Tessin,Ticino,Tessin
+CH,UR,Uri,CH-UR,Uri,Uri,Uri
+CH,VD,Waadt,CH-VD,Vaud,Vaud,Vad
+CH,VS,Wallis,CH-VS,Valais,Vallese,Vallais
+CH,ZG,Zug,CH-ZG,Zoug,Zugo,Zug
+CH,ZH,Zürich,CH-ZH,Zurich,Zurigo,Turitg
